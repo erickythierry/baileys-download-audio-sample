@@ -1,0 +1,13 @@
+{
+  "name": "baileys-download-audio",
+  "version": "1.0.0",
+  "description": "sample to download audios",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "erickythierry",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0"
+  }
+}
